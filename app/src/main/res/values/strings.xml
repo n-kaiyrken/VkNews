@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">VkNews</string>
     <string name="template_text">\"X Window System, which is a networked windowing \"</string>
+    <string name="navigation_title_main">Главная</string>
+    <string name="navigation_title_favourite">Избранное</string>
+    <string name="navigation_title_profile">Профиль</string>
 </resources>
